@@ -33,5 +33,17 @@ Anaconda is the best program to use, which comes with all of the necessary packa
 ```
 
 
+## **Exploring the Dataset:**
+### Questions:
+
+**Question 1:** Which movies are with highest and lowest Budget? <br>
+**Question 2:**	Which movies are with highest and lowest Revenue? <br>
+**Question 3:**	Is there a relationship between The Revenue & The Budget? <br>
+**Question 4:**	Which movies are with highest and lowest Profit? <br>
+**Question 5:**	Which movies are with highest and lowest Votes? <br>
+**Question 6:**	Does Voting Affect the Revenue? <br>
+**Question 7:**	Classification of Movies Based on Votes <br>
+**Question 8:**	Which Genre Has the Highest Release of Movies? <br>
+**Question 9:**	Correlations
 
 
