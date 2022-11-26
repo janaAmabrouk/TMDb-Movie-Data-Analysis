@@ -9,6 +9,8 @@ This data set contains information about 10,000 movies collected from The Movie 
 
 #### Here is the [link](https://www.kaggle.com/datasets/juzershakir/tmdb-movies-dataset?select=tmdb_movies_data.csv) for the dataset.
 
+![investigate](https://user-images.githubusercontent.com/110740808/204082188-13ab45f6-d63a-4b87-a51d-c106028dace1.png)
+
 # **What do I need to install?**
 You will need an installation of Python, plus the following libraries:
 - Pandas
