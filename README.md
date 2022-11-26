@@ -1,6 +1,6 @@
 # **TMDb-Movie-Data-Analysis**
 # **Overview**
-In this project, python will be used to analyze TMDb Movie dataset and then express the results. Python libraries that will be used are NumPy, pandas, and Matplotlib to make the analysis process easier.
+In this project, python will be used to analyze TMDb Movie dataset and then express the results. Python libraries that will be used are NumPy, pandas, Matplotlib, and Seaborn to make the analysis process easier.
 
 This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
 - Certain columns, like ‘cast’ and ‘genres’, contain multiple values separated by pipe (|) characters. 
