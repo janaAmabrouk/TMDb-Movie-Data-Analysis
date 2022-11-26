@@ -16,6 +16,7 @@ You will need an installation of Python, plus the following libraries:
 - Pandas
 - Numpy
 - Matplotlib
+- Seaborn
 - Csv
 
 Anaconda is the best program to use, which comes with all of the necessary packages, as well as IPython notebook. Here are the installation steps:
@@ -23,7 +24,13 @@ Anaconda is the best program to use, which comes with all of the necessary packa
 <br>Refer to the installation instructions [here](https://docs.anaconda.com/anaconda/install/).
 <br>Verify the installation, as mentioned [here](https://docs.anaconda.com/anaconda/install/verify-install/).
   
-
+### How to install those basic packages?
+```
+- import numpy as np
+- import pandas as pd
+- import matplotlib.pyplot as plt
+- import seaborn as sns
+```
 
 
 
