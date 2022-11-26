@@ -9,8 +9,13 @@ You will need an installation of Python, plus the following libraries:
 - Matplotlib
 - Csv
 
-I recommend installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook. Here are the installation steps:
-Download the installer from https://www.anaconda.com/download/. Choose the Python 3.6 or higher version, and the appropriate 64/32-bit installer.
-Refer to the installation instructions here.
-Verify the installation, as mentioned here.
-Why this Project?
+Anaconda is the best program to use, which comes with all of the necessary packages, as well as IPython notebook. Here are the installation steps:
+<br>Download the installer from https://www.anaconda.com/download/. Choose the Python 3.6 or higher version, and the appropriate 64/32-bit installer.
+<br>Refer to the installation instructions [here](https://docs.anaconda.com/anaconda/install/).
+<br>Verify the installation, as mentioned [here](https://docs.anaconda.com/anaconda/install/verify-install/).
+  
+
+
+
+
+
