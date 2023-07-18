@@ -17,10 +17,10 @@ You will need an installation of Python, plus the following libraries:
 - Numpy
 - Matplotlib
 - Seaborn
-- Csv
+- CSV
 
-Anaconda is the best program to use, which comes with all of the necessary packages, as well as IPython notebook. Here are the installation steps:
-<br>Download the installer from https://www.anaconda.com/download/. Choose the Python 3.6 or higher version, and the appropriate 64/32-bit installer.
+Anaconda is the best program to use, which comes with all of the necessary packages, as well as Python notebook. Here are the installation steps:
+<br>Download the installer from https://www.anaconda.com/download/. Choose the Python 3.6 or higher version and the appropriate 64/32-bit installer.
 <br>Refer to the installation instructions [here](https://docs.anaconda.com/anaconda/install/).
 <br>Verify the installation, as mentioned [here](https://docs.anaconda.com/anaconda/install/verify-install/).
   
@@ -36,11 +36,11 @@ Anaconda is the best program to use, which comes with all of the necessary packa
 ## **Exploring the Dataset:**
 ### Questions:
 
-**Question 1:** Which movies are with highest and lowest Budget? <br>
-**Question 2:**	Which movies are with highest and lowest Revenue? <br>
+**Question 1:** Which movies are with the highest and lowest Budget? <br>
+**Question 2:**	Which movies are with the highest and lowest Revenue? <br>
 **Question 3:**	Is there a relationship between The Revenue & The Budget? <br>
-**Question 4:**	Which movies are with highest and lowest Profit? <br>
-**Question 5:**	Which movies are with highest and lowest Votes? <br>
+**Question 4:**	Which movies are with the highest and lowest Profit? <br>
+**Question 5:**	Which movies are with the highest and lowest Votes? <br>
 **Question 6:**	Does Voting Affect the Revenue? <br>
 **Question 7:**	Classification of Movies Based on Votes <br>
 **Question 8:**	Which Genre Has the Highest Release of Movies? <br>
